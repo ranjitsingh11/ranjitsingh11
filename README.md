@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ranjitsingh11
+- 👋 Hi, I’m Ranjit Singh
 - 👀 I’m interested in learning Data science
 - 🌱 I’m currently learning statistics and python
 - 💞️ I’m looking to collaborate on data scrapping and collection.
